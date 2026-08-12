@@ -31,7 +31,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats-dlac7r9zj-aduylee-projects.vercel.app/api/top-langs/?username=aduylee&layout=compact&theme=radical"
+    src="https://github-readme-stats-dlac7r9zj-aduylees-projects.vercel.app/api/top-langs/?username=aduylee&layout=compact&theme=radical"
     width="100%"
   />
 </p>
