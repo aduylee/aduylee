@@ -97,7 +97,7 @@ A machine learning project for detecting fake news using Natural Language Proces
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=aduylee&theme=react-dark"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=aduylee&bg_color=ffffff&color=ff2d7a&line=ff2d7a&point=ff2d7a&area=true&hide_border=true&custom_title=Last%2032%20days"
     width="100%"
   />
 </p>
