@@ -43,17 +43,17 @@ I'm interested in building web applications, software testing, and exploring AI-
 
 ## 🚀 Projects
 
-### 📚 TOCFL Master
+### 📚 [TOCFL Master](https://github.com/aduylee/tocfl_master)
 A web application for learning Traditional Chinese and preparing for the TOCFL exam.
 
 **Tech:** React, Node.js, Express, MongoDB, Tailwind CSS
 
-### 🤖 AI Chatbot RAG
+### 🤖 [AI Chatbot RAG](https://github.com/aduylee/ai-chatbot-rag)
 An AI chatbot using Retrieval-Augmented Generation to retrieve information from documents and provide relevant answers.
 
 **Tech:** Python, LangGraph, RAG, Vector Database
 
-### 📰 Fake News Detector
+### 📰 [Fake News Detector](https://github.com/aduylee/fake_news_detector)
 A machine learning project for detecting fake news using Natural Language Processing.
 
 **Tech:** Python, Pandas, Scikit-learn, NLP, Machine Learning
@@ -95,7 +95,6 @@ A machine learning project for detecting fake news using Natural Language Proces
 
 ## 📈 Contribution Graph
 
-
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=aduylee&bg_color=0d1117&color=ff2d7a&line=ff2d7a&point=ff2d7a&area=true&hide_border=true&radius=8"
@@ -110,5 +109,3 @@ A machine learning project for detecting fake news using Natural Language Proces
 - 📧 Email: **leaduy21@gmail.com**
 - 💼 LinkedIn: **https://linkedin.com/in/aduylee**
 - 🌐 GitHub: **https://github.com/aduylee**
-
-⭐️ From [aduylee](https://github.com/aduylee)
