@@ -1,13 +1,18 @@
-### 👋 About Me!
+# 👋 Hi, I'm Lê Anh Duy
 
-- 💻 I'm currently working on: **Building full-stack web applications, AI-powered systems, and software testing projects.**
-- 🔭 I'm looking to collaborate on: **Web development, AI/RAG, Computer Vision, and QA/Testing projects.**
-- 🧠 I'm currently learning: **Python, React, Node.js, MongoDB, software testing, and system design.**
-- ⚡ Fun fact: *I turn coffee into clean code and love solving programming bugs.*
+### 💻 IT Student | Aspiring QA / Tester
+
+I'm an Information Technology student interested in **Software Testing, Web Development, AI, and RAG systems**.
+
+* 🔭 Currently working on: **Full-stack web applications and AI-powered projects**
+* 🧪 Interested in: **QA / Software Testing and Automation Testing**
+* 🧠 Currently learning: **Python, React, Node.js, MongoDB, SQL and Software Testing**
+* 🚀 Goal: **Improve my technical skills through real-world projects**
+* ⚡ Fun fact: *I turn coffee into code and bugs into learning opportunities.*
 
 ---
 
-### Socials:
+## 🌐 Socials
 
 <p>
   <a href="https://facebook.com/leaduy21" target="_blank">
@@ -23,41 +28,99 @@
 
 ---
 
-### Tech Stack:
+## 🛠️ Tech Stack
+
+### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,py,react,nodejs,django,docker,git,mongodb,mysql,cpp" />
+  <img src="https://skillicons.dev/icons?i=py,js,ts,cpp" />
+</p>
+
+### Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,django" />
+</p>
+
+### Database & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,docker,git,github" />
 </p>
 
 ---
 
-### Top Languages
+## 🚀 Featured Projects
+
+### 📚 TOCFL Master
+
+**Traditional Chinese learning platform** for vocabulary, grammar and TOCFL exam preparation.
+
+**Tech:** React, Tailwind CSS, Node.js, Express, MongoDB
+
+---
+
+### 🤖 RAG Chatbot
+
+AI chatbot using **Retrieval-Augmented Generation (RAG)** to retrieve relevant information and generate answers from a knowledge base.
+
+**Tech:** Python, LangGraph, RAG, Vector Database
+
+---
+
+### 📰 Fake News Detector
+
+Machine Learning project for detecting **fake and real news articles** using Natural Language Processing.
+
+**Tech:** Python, Pandas, Scikit-learn, NLP, Machine Learning
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aduylee&layout=compact&theme=radical"
-    width="100%"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=aduylee&show_icons=true&theme=radical&hide_border=false" width="100%" />
 </p>
 
 ---
 
-### GitHub Stats & Streak
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=aduylee&theme=radical&hide_border=false"
-    width="100%"
-  />
+  <img src="https://streak-stats.demolab.com/?user=aduylee&theme=radical&hide_border=false" width="100%" />
 </p>
 
 ---
 
-### Top Contributes
+## 💻 Top Languages
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=aduylee&theme=react-dark"
-    width="100%"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aduylee&layout=compact&theme=radical&hide_border=false" width="100%" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aduylee&theme=react-dark&hide_border=false" width="100%" />
+</p>
+
+---
+
+## 📫 Contact
+
+<p align="center">
+  <a href="mailto:leaduy21@gmail.com">
+    <img src="https://img.shields.io/badge/Email-leaduy21%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/aduylee">
+    <img src="https://img.shields.io/badge/LinkedIn-L%C3%AA%20Anh%20Duy-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
 </p>
