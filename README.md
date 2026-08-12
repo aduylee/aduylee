@@ -95,9 +95,10 @@ A machine learning project for detecting fake news using Natural Language Proces
 
 ## 📈 Contribution Graph
 
+
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=aduylee&bg_color=ffffff&color=ff2d7a&line=ff2d7a&point=ff2d7a&area=true&hide_border=true&custom_title=Last%2032%20days"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=aduylee&bg_color=0d1117&color=ff2d7a&line=ff2d7a&point=ff2d7a&area=true&hide_border=true&radius=8"
     width="100%"
   />
 </p>
