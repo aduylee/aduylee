@@ -27,8 +27,13 @@
 
 ### Top Languages
 
+## 💻 Top Languages
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aduylee&layout=arrow&theme=radical" width="100%" />
+  <img
+    src="https://github-readme-stats-dlac7r9zj-aduylee-projects.vercel.app/api/top-langs/?username=aduylee&layout=compact&theme=radical"
+    width="100%"
+  />
 </p>
 
 ---
