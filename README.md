@@ -48,7 +48,7 @@ A web application for learning Traditional Chinese and preparing for the TOCFL e
 
 **Tech:** React, Node.js, Express, MongoDB, Tailwind CSS
 
-### 🤖 [AI Chatbot RAG](https://github.com/aduylee/ai-chatbot-rag)
+### 🤖 [AI Chatbot RAG](https://github.com/aduylee/chatboxtttn)
 An AI chatbot using Retrieval-Augmented Generation to retrieve information from documents and provide relevant answers.
 
 **Tech:** Python, LangGraph, RAG, Vector Database
