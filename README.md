@@ -94,12 +94,10 @@ A Machine Learning project for detecting **fake news using Natural Language Proc
 # 🔥 GitHub Streak
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img
-      src="https://streak-stats.demolab.com/?user=aduylee&theme=radical&mode=weekly"
-      alt="GitHub Streak"
-    />
-  </a>
+  <img
+    src="https://streak-stats.demolab.com/?user=aduylee&theme=radical&hide_border=false"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
