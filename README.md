@@ -1,112 +1,39 @@
-# 👋 Hi, I'm Lê Anh Duy
+# About Me:
 
-💻 Information Technology Student | Web Developer | AI/ML Enthusiast
+-I’m currently working on: Building **TOCFL Master**, a web application for learning Traditional Chinese, an **AI Chatbot using RAG**, and a **Fake News Detection** project.<br><br>- I’m looking to collaborate on: Projects related to **AI/ML, NLP, RAG, Computer Vision, or web application development**.<br><br>- I’m looking for help with: Improving **AI application performance, RAG pipelines, NLP models, and full-stack web application architecture**.<br><br>- I’m currently learning: Deepening my knowledge in **Python, React, Node.js, MongoDB, NLP, Machine Learning, and AI applications**.<br><br>- Ask me about: **React web development, Node.js/Express APIs, MongoDB, RAG applications, or building AI-powered projects**.<br><br>- When I’m not coding, I enjoy exploring new technologies, working on personal projects, and learning new things in AI and software development.
 
-I'm interested in building web applications, software testing, and exploring AI-powered applications.
+## Socials:
 
----
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook\&logoColor=white)](https://facebook.com/leaduy21) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/aduylee/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:leaduy21@gmail.com)
 
-## 👨‍💻 About Me
+# Tech Stack:
 
-- 💻 Information Technology student interested in Web Development and AI applications
-- 🚀 Built projects including **TOCFL Master**, **AI Chatbot RAG**, and **Fake News Detector**
-- 🌐 Experienced with **React, Node.js, Express, MongoDB, and Tailwind CSS**
-- 🤖 Exploring **RAG, NLP, Vector Databases, and Machine Learning**
-- 🧪 Interested in **Software Testing and QA**
-- 🌱 Currently improving my skills through personal projects and practical development
-- 🎯 Looking for opportunities to gain real-world experience and grow in IT
+<img src="https://ghstats.dev/api/langs?username=aduylee&theme=tokyonight&max_langs=12" alt="Top Languages" />
 
----
+# GitHub Stats & Streak:
 
-## 🌐 Socials
+<img src="https://ghstats.dev/api/card?username=aduylee&theme=forest" alt="GitHub Stats Card" />
 
-<p align="left">
-  <a href="https://facebook.com/leaduy21" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/aduylee" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:leaduy21@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+### Top contributes
 
----
+<img src="https://ghstats.dev/api/sparkline?username=aduylee&theme=radical&days=32&width=320&height=80" alt="Contribution Sparkline" />
 
-## 🛠️ Tech Stack
+## 🚀 Featured Projects
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,react,nodejs,django,docker,git,mongodb,mysql,cpp" />
-</p>
+### 📚 TOCFL Master
 
----
-
-## 🚀 Projects
-
-### 📚 [TOCFL Master](https://github.com/aduylee/tocfl_master)
-A web application for learning Traditional Chinese and preparing for the TOCFL exam.
+A web application for learning **Traditional Chinese** and preparing for the **TOCFL exam**.
 
 **Tech:** React, Node.js, Express, MongoDB, Tailwind CSS
 
-### 🤖 [AI Chatbot RAG](https://github.com/aduylee/chatboxtttn)
-An AI chatbot using Retrieval-Augmented Generation to retrieve information from documents and provide relevant answers.
+### 🤖 AI Chatbot RAG
+
+An AI chatbot that uses **Retrieval-Augmented Generation (RAG)** to retrieve information from documents and generate relevant answers.
 
 **Tech:** Python, LangGraph, RAG, Vector Database
 
-### 📰 [Fake News Detector](https://github.com/aduylee/fake_news_detector)
-A machine learning project for detecting fake news using Natural Language Processing.
+### 📰 Fake News Detector
+
+A machine learning application for detecting **fake news using NLP and text classification**.
 
 **Tech:** Python, Pandas, Scikit-learn, NLP, Machine Learning
-
----
-
-## 💻 Top Languages
-
-<p align="center">
-  <img
-    src="https://github-readme-stats-two-snowy-58.vercel.app/api/top-langs?username=aduylee&layout=compact&theme=radical"
-    width="100%"
-  />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats-two-snowy-58.vercel.app/api?username=aduylee&show_icons=true&theme=radical"
-    width="100%"
-  />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=aduylee&theme=radical&hide_border=false"
-    width="100%"
-  />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=aduylee&bg_color=0d1117&color=ff2d7a&line=ff2d7a&point=ff2d7a&area=true&hide_border=true&radius=8"
-    width="100%"
-  />
-</p>
-
----
-
-## 📫 Contact
-
-- 📧 Email: **leaduy21@gmail.com**
-- 💼 LinkedIn: **https://linkedin.com/in/aduylee**
-- 🌐 GitHub: **https://github.com/aduylee**
