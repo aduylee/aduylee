@@ -95,7 +95,7 @@ A Machine Learning project for detecting **fake news using Natural Language Proc
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=aduylee&theme=radical&hide_border=false&v=2"
+    src="https://streak-stats.demolab.com?user=aduylee&theme=radical&hide_border=false"
     alt="GitHub Streak"
   />
 </p>
