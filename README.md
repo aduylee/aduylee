@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Lê Anh Duy
 
-💻 **Information Technology Student | AI/ML Enthusiast | Web Developesr**
+💻 **Information Technology Student | AI/ML Enthusiast | Web Developer**
 
 I'm interested in building web applications and AI-powered solutions using Machine Learning, NLP, and RAG.
 
