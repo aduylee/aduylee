@@ -2,22 +2,22 @@
 
 💻 **Information Technology Student | AI/ML Enthusiast | Web Developer**
 
-I'm interested in building web applications, AI-powered applications, and exploring Machine Learning and NLP.
+I'm interested in building web applications and AI-powered solutions using Machine Learning, NLP, and RAG.
 
 ---
 
-# About Me:
+# 👨‍💻 About Me
 
-* 💻 I’m currently working on: Building **TOCFL Master**, an **AI Chatbot using RAG**, and a **Fake News Detection** project.<br><br>
-* 🤝 I’m looking to collaborate on: Projects related to **AI/ML, NLP, RAG, and Web Development**.<br><br>
-* 🤖 I’m exploring: **Retrieval-Augmented Generation (RAG), Vector Databases, NLP, and Machine Learning**.<br><br>
-* 🌱 I’m currently learning: Deepening my knowledge in **Python, React, Node.js, MongoDB, and AI applications**.<br><br>
-* 💡 Ask me about: **React, Node.js/Express, MongoDB, RAG applications, or AI-powered projects**.<br><br>
-* 🎯 My goal: Improve my practical skills by building real-world projects and continuously learning new technologies.
+* 💻 Currently building **TOCFL Master, AI Chatbot RAG, and Fake News Detector**
+* 🤖 Interested in **AI/ML, NLP, RAG, and Vector Databases**
+* 🌐 Experienced with **React, Node.js, Express, and MongoDB**
+* 🐍 Working with **Python, Machine Learning, and NLP**
+* 🌱 Currently improving my skills through **personal projects and practical development**
+* 🎯 Goal: Build useful applications and gain real-world experience in software development
 
 ---
 
-# Socials:
+# 🌐 Socials
 
 <p align="left">
   <a href="https://facebook.com/leaduy21" target="_blank">
@@ -33,21 +33,23 @@ I'm interested in building web applications, AI-powered applications, and explor
 
 ---
 
-# 🛠️ Tech Stack:
+# 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,react,nodejs,express,django,mongodb,mysql,git,github,docker,cpp" />
+  <img src="https://skillicons.dev/icons?i=js,py,react,nodejs,express,mongodb,mysql,git,github" />
 </p>
+
+**AI / ML:** Python · NLP · Machine Learning · RAG · LangGraph · Vector Database
 
 ---
 
-# 🚀 Featured Projects:
+# 🚀 Featured Projects
 
 ### 📚 [TOCFL Master](https://github.com/aduylee/tocfl_master)
 
 A web application for learning **Traditional Chinese** and preparing for the **TOCFL exam**.
 
-**Tech:** React, Node.js, Express, MongoDB, Tailwind CSS
+**Tech:** React · Node.js · Express · MongoDB · Tailwind CSS
 
 ---
 
@@ -55,7 +57,7 @@ A web application for learning **Traditional Chinese** and preparing for the **T
 
 An AI chatbot using **Retrieval-Augmented Generation (RAG)** to retrieve information from documents and provide relevant answers.
 
-**Tech:** Python, LangGraph, RAG, Vector Database
+**Tech:** Python · LangGraph · RAG · Vector Database
 
 ---
 
@@ -63,11 +65,11 @@ An AI chatbot using **Retrieval-Augmented Generation (RAG)** to retrieve informa
 
 A Machine Learning project for detecting **fake news using Natural Language Processing and text classification**.
 
-**Tech:** Python, Pandas, Scikit-learn, NLP, Machine Learning
+**Tech:** Python · Pandas · Scikit-learn · NLP · Machine Learning
 
 ---
 
-# 💻 Top Languages:
+# 💻 Top Languages
 
 <p align="center">
   <img
@@ -78,7 +80,7 @@ A Machine Learning project for detecting **fake news using Natural Language Proc
 
 ---
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 
 <p align="center">
   <img
@@ -89,18 +91,18 @@ A Machine Learning project for detecting **fake news using Natural Language Proc
 
 ---
 
-# 🔥 GitHub Streak:
+# 🔥 GitHub Streak
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=aduylee&theme=radical&hide_border=false"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=aduylee&theme=radical&hide_border=false&v=2"
     alt="GitHub Streak"
   />
 </p>
 
 ---
 
-# 📈 Contribution Graph:
+# 📈 Contribution Graph
 
 <p align="center">
   <img
@@ -111,7 +113,7 @@ A Machine Learning project for detecting **fake news using Natural Language Proc
 
 ---
 
-# 📫 Contact:
+# 📫 Contact
 
 * 📧 Email: **[leaduy21@gmail.com](mailto:leaduy21@gmail.com)**
 * 💼 LinkedIn: **[linkedin.com/in/aduylee](https://linkedin.com/in/aduylee/)**
