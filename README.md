@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Lê Anh Duy
 
-💻 Information Technology Student | Web Developer | QA/Tester Intern
+💻 Information Technology Student | Web Developer | AI/ML Enthusiast
 
 I'm interested in building web applications, software testing, and exploring AI-powered applications.
 
