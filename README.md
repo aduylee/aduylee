@@ -8,13 +8,13 @@ I'm interested in building web applications, software testing, and exploring AI-
 
 ## 👨‍💻 About Me
 
-- 💻 Currently working on **full-stack web applications and AI-powered projects**
-- 🧪 Interested in **Software Testing / QA**
-- 🤖 Exploring **AI, RAG, NLP, and Machine Learning**
-- 🌱 Currently learning **Python, React, Node.js, MongoDB, and Software Testing**
-- 🎯 Goal: Improve my practical skills through real-world projects
-- ⚡ Fun fact: I enjoy turning ideas into working projects and solving bugs.
-
+💻 Information Technology student interested in Web Development and AI applications
+🚀 Built projects including TOCFL Master, AI Chatbot RAG, and Fake News Detector
+🌐 Experienced with React, Node.js, Express, MongoDB, and Tailwind CSS
+🤖 Exploring RAG, NLP, Vector Databases, and Machine Learning
+🧪 Interested in Software Testing and QA
+🌱 Currently improving my skills through personal projects and practical development
+🎯 Looking for opportunities to gain real-world experience and grow in IT
 ---
 
 ## 🌐 Socials
