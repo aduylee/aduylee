@@ -84,7 +84,7 @@ A Machine Learning project for detecting **fake news using Natural Language Proc
 
 <p align="center">
   <img
-    src="https://ghstats.dev/api/card?username=aduylee&theme=forest"
+    src="https://github-readme-stats.vercel.app/api?username=aduylee&show_icons=true&theme=tokyonight&hide_border=true"
     alt="GitHub Stats"
   />
 </p>
@@ -94,12 +94,10 @@ A Machine Learning project for detecting **fake news using Natural Language Proc
 # 🔥 GitHub Streak
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img
-      src="https://streak-stats.demolab.com/?user=aduylee&theme=radical&mode=weekly"
-      alt="GitHub Streak"
-    />
-  </a>
+  <img
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=aduylee&theme=radical&mode=weekly"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
