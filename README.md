@@ -84,7 +84,7 @@ A Machine Learning project for detecting **fake news using Natural Language Proc
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=aduylee&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats-fast.vercel.app/api?username=aduylee&show_icons=true&theme=tokyonight&hide_border=true"
     alt="GitHub Stats"
   />
 </p>
