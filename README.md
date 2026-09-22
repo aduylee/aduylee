@@ -1,19 +1,19 @@
 # 👋 Hi, I'm Lê Anh Duy
 
-💻 **Information Technology Student 
+📊 **Information Technology Student | Aspiring Data Analyst & Data Engineer**
 
+I specialize in data analysis, SQL query optimization, database modeling, and transforming raw data into actionable business insights.
 
 ---
 
 # 👨‍💻 About Me
 
-* 💻 Currently building **TOCFL Master, AI Chatbot RAG, Fake News Detector, and E-Commerce SQL Analytics**
-* 🤖 Interested in **AI/ML, NLP, RAG, and Vector Databases**
-* 📊 Experienced with **SQL Server, Data Analysis, Query Optimization, and Performance Tuning**
-* 🌐 Experienced with **React, Node.js, Express, and MongoDB**
-* 🐍 Working with **Python, Machine Learning, and Data Processing**
-* 🌱 Currently improving my skills through **personal projects and practical development**
-* 🎯 Goal: Build useful applications and gain real-world experience in software development & data analytics
+* 📊 Focus Area: **Data Analytics, Business Intelligence & Database Performance Tuning**
+* 💾 Proficient in **Complex SQL Queries, CTEs, Window Functions, and RFM Segmentation**
+* ⚡ Experienced in **Query Performance Optimization, Indexing Strategies, and Execution Plan Analysis**
+* 🐍 Data Manipulation with **Python (Pandas, NumPy) and SQL Server (SSMS)**
+* 🌱 Currently building **end-to-end data pipelines, analytical dashboards, and relational database projects**
+* 🎯 Goal: Leverage data-driven insights to solve complex business problems and optimize database systems
 
 ---
 
@@ -36,11 +36,12 @@
 # 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,py,mssql,mysql,mongodb,react,nodejs,express,git,github" />
+  <img src="https://skillicons.dev/icons?i=mssql,mysql,postgres,mongodb,py,git,github" />
 </p>
 
-- **AI / ML:** Python · NLP · Machine Learning · RAG · LangGraph · Vector Database
-- **Databases & Analytics:** SQL Server (SSMS) · T-SQL · CTE & Window Functions · Index Optimization · Performance Tuning
+- **Querying & Database Engineering:** T-SQL · SQL Server · MySQL · PostgreSQL · Schema Design · Index Optimization · Execution Plan Analysis
+- **Data Analysis & Analytics:** CTEs · Window Functions (`LAG`, `DENSE_RANK`) · PIVOT Tables · RFM Analysis · Cohort & Retention Analysis
+- **Data Processing Tools:** Python · Pandas · NumPy · SSMS
 
 ---
 
@@ -48,33 +49,9 @@
 
 ### 📊 [E-Commerce SQL Data Analysis & Query Optimization](https://github.com/aduylee/SQL-Data-Analysis-Ecommerce)
 
-An end-to-end SQL analytics project featuring **MoM revenue growth analysis, RFM customer segmentation, multi-dimensional PIVOT reporting, and query performance tuning using Non-Clustered Indexes**.
+An end-to-end SQL analytics project focused on e-commerce sales performance. Highlights include **MoM revenue growth analysis, RFM customer segmentation, multi-dimensional PIVOT reporting, and query tuning using Non-Clustered Indexes**.
 
-**Tech:** Microsoft SQL Server · SSMS · T-SQL · CTE & Window Functions · Execution Plan Optimization
-
----
-
-### 📚 [TOCFL Master](https://github.com/aduylee/tocfl_master)
-
-A web application for learning **Traditional Chinese** and preparing for the **TOCFL exam**.
-
-**Tech:** React · Node.js · Express · MongoDB · Tailwind CSS
-
----
-
-### 🤖 [AI Chatbot RAG](https://github.com/aduylee/chatboxtttn)
-
-An AI chatbot using **Retrieval-Augmented Generation (RAG)** to retrieve information from documents and provide relevant answers.
-
-**Tech:** Python · LangGraph · RAG · Vector Database
-
----
-
-### 📰 [Fake News Detector](https://github.com/aduylee/fake_news_detector)
-
-A Machine Learning project for detecting **fake news using Natural Language Processing and text classification**.
-
-**Tech:** Python · Pandas · Scikit-learn · NLP · Machine Learning
+**Tech:** Microsoft SQL Server · SSMS · T-SQL · CTE & Window Functions · Performance Optimization (`Index Seek`)
 
 ---
 
