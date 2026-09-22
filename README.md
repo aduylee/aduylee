@@ -1,19 +1,19 @@
 # 👋 Hi, I'm Lê Anh Duy
 
-💻 **Information Technology Student | AI/ML Enthusiast | Web Developer**
+💻 **Information Technology Student 
 
-I'm interested in building web applications and AI-powered solutions using Machine Learning, NLP, and RAG.
 
 ---
 
 # 👨‍💻 About Me
 
-* 💻 Currently building **TOCFL Master, AI Chatbot RAG, and Fake News Detector**
+* 💻 Currently building **TOCFL Master, AI Chatbot RAG, Fake News Detector, and E-Commerce SQL Analytics**
 * 🤖 Interested in **AI/ML, NLP, RAG, and Vector Databases**
+* 📊 Experienced with **SQL Server, Data Analysis, Query Optimization, and Performance Tuning**
 * 🌐 Experienced with **React, Node.js, Express, and MongoDB**
-* 🐍 Working with **Python, Machine Learning, and NLP**
+* 🐍 Working with **Python, Machine Learning, and Data Processing**
 * 🌱 Currently improving my skills through **personal projects and practical development**
-* 🎯 Goal: Build useful applications and gain real-world experience in software development
+* 🎯 Goal: Build useful applications and gain real-world experience in software development & data analytics
 
 ---
 
@@ -36,14 +36,23 @@ I'm interested in building web applications and AI-powered solutions using Machi
 # 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,py,react,nodejs,express,mongodb,mysql,git,github" />
+  <img src="https://skillicons.dev/icons?i=js,py,mssql,mysql,mongodb,react,nodejs,express,git,github" />
 </p>
 
-**AI / ML:** Python · NLP · Machine Learning · RAG · LangGraph · Vector Database
+- **AI / ML:** Python · NLP · Machine Learning · RAG · LangGraph · Vector Database
+- **Databases & Analytics:** SQL Server (SSMS) · T-SQL · CTE & Window Functions · Index Optimization · Performance Tuning
 
 ---
 
 # 🚀 Featured Projects
+
+### 📊 [E-Commerce SQL Data Analysis & Query Optimization](https://github.com/aduylee/SQL-Data-Analysis-Ecommerce)
+
+An end-to-end SQL analytics project featuring **MoM revenue growth analysis, RFM customer segmentation, multi-dimensional PIVOT reporting, and query performance tuning using Non-Clustered Indexes**.
+
+**Tech:** Microsoft SQL Server · SSMS · T-SQL · CTE & Window Functions · Execution Plan Optimization
+
+---
 
 ### 📚 [TOCFL Master](https://github.com/aduylee/tocfl_master)
 
