@@ -12,6 +12,7 @@ I'm interested in building web applications and AI-powered solutions using Machi
 * 🤖 Interested in **AI/ML, NLP, RAG, and Vector Databases**
 * 🌐 Experienced with **React, Node.js, Express, and MongoDB**
 * 🐍 Working with **Python, Machine Learning, and NLP**
+* 🗄️ Working with **Microsoft SQL Server, MySQL, and SQL analytics**
 * 🌱 Currently improving my skills through **personal projects and practical development**
 * 🎯 Goal: Build useful applications and gain real-world experience in software development
 
@@ -35,11 +36,39 @@ I'm interested in building web applications and AI-powered solutions using Machi
 
 # 🛠️ Tech Stack
 
+### 💻 Programming Languages
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,py,react,nodejs,express,mongodb,mssql,mysql,git,github" />
+  <img src="https://skillicons.dev/icons?i=js,ts,py,java" />
 </p>
 
-**AI / ML:** Python · NLP · Machine Learning · RAG · LangGraph · Vector Database
+### 🌐 Web Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css,tailwind" />
+</p>
+
+### 🗄️ Database
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+</p>
+
+**SQL:** Microsoft SQL Server · T-SQL · SSMS · CTE · Window Functions · PIVOT · Query Optimization
+
+### 🤖 AI / Machine Learning
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn" />
+</p>
+
+**AI / ML:** Machine Learning · NLP · RAG · LangGraph · Vector Database
+
+### 🛠️ Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
+</p>
 
 ---
 
@@ -49,7 +78,7 @@ I'm interested in building web applications and AI-powered solutions using Machi
 
 An end-to-end SQL project featuring **MoM revenue growth analysis, RFM customer segmentation, PIVOT reporting, and query tuning using Non-Clustered Indexes**.
 
-**Tech:** Microsoft SQL Server · SSMS · T-SQL · CTE & Window Functions · Execution Plan Optimization
+**Tech:** Microsoft SQL Server · SSMS · T-SQL · CTE · Window Functions · PIVOT · Execution Plan Optimization
 
 ---
 
@@ -57,7 +86,7 @@ An end-to-end SQL project featuring **MoM revenue growth analysis, RFM customer 
 
 A web application for learning **Traditional Chinese** and preparing for the **TOCFL exam**.
 
-**Tech:** React · Node.js · Express · MongoDB · Tailwind CSS
+**Tech:** React · TypeScript · Node.js · Express · MongoDB · Tailwind CSS
 
 ---
 
@@ -81,7 +110,7 @@ A Machine Learning project for detecting **fake news using Natural Language Proc
 
 <p align="center">
   <img
-    src="https://ghstats.dev/api/langs?username=aduylee&theme=tokyonight&max_langs=12"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aduylee&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"
     alt="Top Languages"
   />
 </p>
@@ -92,7 +121,7 @@ A Machine Learning project for detecting **fake news using Natural Language Proc
 
 <p align="center">
   <img
-    src="https://github-readme-stats-fast.vercel.app/api?username=aduylee&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=aduylee&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
     alt="GitHub Stats"
   />
 </p>
@@ -103,7 +132,7 @@ A Machine Learning project for detecting **fake news using Natural Language Proc
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats-eight.vercel.app/?user=aduylee&theme=radical&mode=weekly"
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=aduylee&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
   />
 </p>
@@ -114,8 +143,8 @@ A Machine Learning project for detecting **fake news using Natural Language Proc
 
 <p align="center">
   <img
-    src="https://ghstats.dev/api/sparkline?username=aduylee&theme=radical&days=32&width=320&height=80"
-    alt="Contribution Graph"
+    src="https://ghstats.dev/api/sparkline?username=aduylee&theme=tokyonight&days=365&width=800&height=200"
+    alt="GitHub Contribution Graph"
   />
 </p>
 
@@ -123,9 +152,13 @@ A Machine Learning project for detecting **fake news using Natural Language Proc
 
 # 📫 Contact
 
-* 📧 Email: **[leaduy21@gmail.com](mailto:leaduy21@gmail.com)**
-* 💼 LinkedIn: **[linkedin.com/in/aduylee](https://linkedin.com/in/aduylee/)**
-* 🌐 GitHub: **[github.com/aduylee](https://github.com/aduylee)**
+<p align="left">
+  📧 Email: <a href="mailto:leaduy21@gmail.com">leaduy21@gmail.com</a>
+  <br>
+  💼 LinkedIn: <a href="https://linkedin.com/in/aduylee/">linkedin.com/in/aduylee</a>
+  <br>
+  🌐 GitHub: <a href="https://github.com/aduylee">github.com/aduylee</a>
+</p>
 
 ---
 
