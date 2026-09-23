@@ -110,7 +110,7 @@ A Machine Learning project for detecting **fake news using Natural Language Proc
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aduylee&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"
+    src="https://ghstats.dev/api/langs?username=aduylee&theme=tokyonight&max_langs=10"
     alt="Top Languages"
   />
 </p>
@@ -121,7 +121,7 @@ A Machine Learning project for detecting **fake news using Natural Language Proc
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=aduylee&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    src="https://ghstats.dev/api/card?username=aduylee&theme=tokyonight&hide_border=true&show_icons=true"
     alt="GitHub Stats"
   />
 </p>
